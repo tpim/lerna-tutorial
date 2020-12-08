@@ -4,7 +4,11 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "pre:push":"echo '234'"
+  },
   "devDependencies": {
+    "husky": "^4.3.5",
     "lerna": "^3.22.1"
   }
 }

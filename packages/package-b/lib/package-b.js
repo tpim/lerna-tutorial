@@ -2,7 +2,7 @@
 const packageA = require('@lion/package-a');
 
 function packageB() {
-    console.log("in packge b");
+    console.log("in packge bb");
 
     packageA()
 }

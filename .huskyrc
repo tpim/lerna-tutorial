@@ -1,5 +1,5 @@
 {
     "hooks":{
-        "pre-push":"yarn pre:push"
+        "pre-push":"yarn pre:pusyarn pre:pushh"
     }
 }
